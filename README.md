@@ -7,7 +7,7 @@ ARKS Center for the ARTS LUT Package for PSO2 NGS:
 
 Base Image:
 
-![pso2-ACA-LUT-TESTS-2023-11-03-08-42-01 original](https://github.com/Faya-NGS/aca-shaders/assets/125037783/f40bf3fa-e209-487b-a3a2-78b44d1a7b47)
+![No LUT](https://github.com/Faya-NGS/aca-shaders/assets/125037783/d425b18f-117f-4755-a129-b30e0c10d1fe)
 
 
 Day to Night:
@@ -17,9 +17,29 @@ Day to Night:
 
 ACA Vibrant 01:
 
-![pso2-ACA-LUT-TESTS-2023-11-03-10-39-35](https://github.com/Faya-NGS/aca-shaders/assets/125037783/7602115a-6d8a-4504-959b-cf68d5cee895)
+![ACA Vibrant](https://github.com/Faya-NGS/aca-shaders/assets/125037783/db5b3aad-e82a-4cbd-b128-f4afceb6609d)
 
 
 ACA Purple Nova:
 
-![pso2-ACA-LUT-TESTS-2023-11-03-10-39-42](https://github.com/Faya-NGS/aca-shaders/assets/125037783/10cf5f0e-c529-45f1-9a43-c49aac5e12f8)
+![ACA Purple Nova](https://github.com/Faya-NGS/aca-shaders/assets/125037783/04f2c8e4-9016-4804-a590-45e875f91fb5)
+
+
+ACA Crystal Bright:
+
+![ACA Crystal Bright](https://github.com/Faya-NGS/aca-shaders/assets/125037783/8862f8d3-818f-4881-b554-d1645d130769)
+
+
+ACA Winter 01:
+
+![ACA Winter 01](https://github.com/Faya-NGS/aca-shaders/assets/125037783/8ad550d8-2745-4c02-a475-7541d990e9d3)
+
+
+ACA Vintage:
+
+![ACA Vintage](https://github.com/Faya-NGS/aca-shaders/assets/125037783/9cbc8989-180a-40ec-9f4d-41edf2bad232)
+
+
+ACA Red Lift Matte:
+
+![ACA Red Lift Matte](https://github.com/Faya-NGS/aca-shaders/assets/125037783/ad106e2e-dc9f-4d3d-8de6-b3c48ad0c9e8)
