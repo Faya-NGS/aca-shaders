@@ -1,6 +1,9 @@
 # aca-shaders
 
-Currently working on a Day to Night LUT:
+ARKS Center for the ARTS LUT Package for PSO2 NGS:
+
+![gui](https://github.com/Faya-NGS/aca-shaders/assets/125037783/14778f92-558c-494e-b267-e94a52c5bc6f)
+
 
 Base Image:
 
