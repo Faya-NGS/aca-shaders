@@ -3,5 +3,5 @@
 #define fLUT_TextureName "aelio-day-to-night_lut.png"
 #define fLUT_TileSizeXY 32
 #define fLUT_TileAmount 32
-#define fLUT_LutAmount 100
+#define fLUT_LutAmount 1
 #include "_BaseLUT.fxh"
