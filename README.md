@@ -9,7 +9,8 @@ Base Image:
 
 Day to Night:
 
-![pso2-ACA-LUT-TESTS-2023-11-03-08-42-01](https://github.com/Faya-NGS/aca-shaders/assets/125037783/f7b138c2-21bf-40ba-93e9-56d7e84a1754)
+![pso2-ACA-LUT-TESTS-2023-11-03-10-44-38](https://github.com/Faya-NGS/aca-shaders/assets/125037783/7df5a26a-f313-4a8a-898d-911a0c835e3a)
+
 
 
 ACA Vibrant 01:
